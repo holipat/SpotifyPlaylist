@@ -2,6 +2,7 @@
 
 This project interact with the Spotify Web API to retrieve and analyze the features of songs from playlists.
 Simply, to print song details within a playlist.
+You can also create playlists with the list of songs you provide.
 My future goal for this project is to turn it into a recommendation system.
 
 ---
